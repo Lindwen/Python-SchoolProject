@@ -8,7 +8,7 @@ To edit the files you need a python editor
 you can use IDLE Python
 or [Pycharm](https://www.jetbrains.com/pycharm/) (free for student)
 or [EduPython](https://edupython.tuxfamily.org)
-or [VisualStudio Code](https://code.visualstudio.com/download) (I use)
+or [VisualStudio Code](https://code.visualstudio.com/download) (I use).
 
 ## Built With
 
