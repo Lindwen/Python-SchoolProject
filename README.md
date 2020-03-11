@@ -12,7 +12,7 @@ or [VisualStudio Code](https://code.visualstudio.com/download) (I use).
 
 ## Built With
 
-* [Python 3.8.x] (https://www.python.org/)
+* [Python 3.8.x](https://www.python.org/)
 
 ## Authors
 
